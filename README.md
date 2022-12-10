@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fakezii / Jamie. I'm a college student in England studying game design, and teaching myself programming on the side. My main language is English aber ich kann auch etwas Deutsch sprechen.
-- 👀 I’m interested in becoming a programmer and getting my name out there.
-- 🌱 I’m currently learning how to use Unity alongside C#.
+- 👋 Hi, I’m @fakezii / Jamie. I'm a college student in England studying game design, and teaching myself programming on the side. My main language is English, aber ich kann auch etwas Deutsch sprechen.
+- 👀 I’m interested in becoming a programmer and getting my name out there as an indie gamedev.
+- 🌱 I’m currently learning how to use Unity alongside C#. I'm interested making in music, art and animation as well.
 - 📫 How to reach me - Discord Fakezii#8387. 
 
 <!---
